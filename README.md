@@ -1,4 +1,4 @@
-# 🎵 Browser-Based Pixel Symphony
+# Browser-Based Pixel Symphony
 
 **Browser-Based Pixel Symphony** is an interactive visual art project inspired by an idea from the Hack Club Idea Box. The original challenge was to create swirling lines that react to mouse movement and dynamically follow the user's cursor.
 
@@ -6,7 +6,7 @@ During development, the project evolved significantly after discovering **tubes1
 
 ---
 
-## ✨ Features
+## Features
 
 * Interactive mouse-responsive animations
 * Dynamic flowing tube-like visual effects
@@ -17,7 +17,7 @@ During development, the project evolved significantly after discovering **tubes1
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Browser-Based-Pixel-Symphony/
@@ -34,7 +34,7 @@ Browser-Based-Pixel-Symphony/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone the Repository
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Start the Flask application:
 
@@ -89,7 +89,7 @@ Open the URL in your browser and move your mouse around the screen to interact w
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -99,13 +99,13 @@ Open the URL in your browser and move your mouse around the screen to interact w
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 This project originated from an idea suggested in the Hack Club Idea Box. The initial objective was to create flowing lines that followed the user's cursor. During development, the integration of **tubes1.min.js** transformed the concept into a richer and more immersive visual experience, resulting in what became **Browser-Based Pixel Symphony**.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **HRISHIKESH T HEMANTH**
 
